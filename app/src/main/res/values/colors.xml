@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="grey">#80000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_pale">#C1C1C1</color>
+    <color name="primary">#2F496E</color>2988BC
+<!--    <color name="primary_lighter">#112754</color>-->
+    <color name="secondary">#2988BC</color>
+<!--    <color name="secondary_lighter">#A16A8F</color>-->
+    <color name="tertiary">#ED8C72</color>
+
+
+    <color name="cyan_blue">#2988BC</color>
+    <color name= "red">#FF0000</color>
+    <color name="dark_cyan_blue">#2F496E</color>
+    <color name= "light_red_orange">#ED8C72</color>
+</resources>
